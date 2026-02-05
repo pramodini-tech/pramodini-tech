@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently learning.
+I am a Computer Science student passionate about Software Development and Generative AI.
+Currently learning Python, FastAPI, and Cloud technologies.
+
 
 
 ## 🌐 Socials:
